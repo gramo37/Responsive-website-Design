@@ -40,4 +40,7 @@
     margin-right: 10px;
 }
 
-
+.team{
+    align-items: center;
+    flex-direction: column;
+}
