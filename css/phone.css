@@ -40,6 +40,10 @@
     margin-right: 10px;
 }
 
+.home{
+    min-height: 75vh;
+}
+
 .team{
     align-items: center;
     flex-direction: column;
