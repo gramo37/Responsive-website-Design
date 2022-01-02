@@ -1,0 +1,9 @@
+
+.right-component li{
+    padding: 10px 5px;
+}
+
+.team{
+    align-items: center;
+    flex-direction: column;
+}

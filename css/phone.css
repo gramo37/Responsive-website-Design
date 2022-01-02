@@ -1,0 +1,43 @@
+.navbar-class{
+    display: flex;
+    height: 60px;
+    align-items: flex-start;
+    transition: ease-in 0.4s;
+}
+
+.logo{
+    transform: translate(0px, 17px);
+    text-align: left;
+    width: 5000px;
+    font-size: 1.1rem;
+}
+
+.components-container{
+    position: absolute;
+    /* left: -15px; */
+    top: 44px;
+    display: flex;
+    flex-direction: column;
+    transition: ease-in 0.4s;
+    transform: translate(0%, -150%);
+}
+
+.right-component{
+    display: flex;
+    flex-direction: column;
+}
+
+.right-component li a{
+    font-size: 1rem;
+}
+
+#hamburger-icon{
+    display: flex;
+    transform: translate(0px, 9px);
+}
+
+.hamburger-icon-container{
+    margin-right: 10px;
+}
+
+
